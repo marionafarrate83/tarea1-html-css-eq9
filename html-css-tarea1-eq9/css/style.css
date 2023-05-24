@@ -1,0 +1,35 @@
+:root{
+    --verde-oscuro: #ccd5ae;
+    --verde-claro: #e9edc9;
+    --crema: #fefae0;
+    --cafe-claro: #faedcd;
+    --cafe-oscuro: #d4a373;
+}
+
+body{
+    background-color: var(--cafe-claro);
+}
+
+h1{
+    text-align: center;
+}
+
+hr{
+    width: 15%;
+    border-style: groove;
+    border-color: var(--cafe-oscuro);
+    border-width: 10px;
+}
+
+.cuadro{
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--cafe-oscuro);
+    margin: 10px;
+    padding: 5px;
+}
+
+table{
+    border-style:outset;
+    border-color: var(--cafe-oscuro);
+}

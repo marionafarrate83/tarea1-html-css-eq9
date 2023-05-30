@@ -33,3 +33,10 @@ table{
     border-style:outset;
     border-color: var(--cafe-oscuro);
 }
+
+menu{
+    background-color: var(--crema);
+    text-align: left;
+    margin: 100px;
+    
+}
